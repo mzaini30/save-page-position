@@ -1,6 +1,6 @@
 # Save Page Position
 
-Library Javascript untuk menyimpan posisi halaman
+Library Javascript untuk menyimpan posisi halaman _secara otomatis_
 
 ## Petunjuk Penggunaan
 
